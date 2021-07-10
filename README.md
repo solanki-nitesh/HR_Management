@@ -1,5 +1,3 @@
-# pratical-task-edexa
-
 ## Getting Started
 
 ### Minimum Requirements
