@@ -1,1 +1,1 @@
-# pratical_task_edexa
+#HR_Management_System
